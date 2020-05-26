@@ -9,11 +9,13 @@ body {
 }
 
 header {
+    border: solid;
     padding: 40px;
     height: 80px;
 }
 
 nav {
+    border: solid;
     padding: 8px 40px;
     background-color: #142850;
     color: #00909e;
@@ -21,11 +23,13 @@ nav {
 }
 
 #contents {
+    border: solid;
     padding: 40px;
     height: 400px;
 }
 
 footer {
+    border: solid;
     border-color: #dae1e7;
     padding: 40px;
     height: 40px;
