@@ -1,25 +1,26 @@
 body {
-    background-color: #142850;
+    background-color: #fff;
 }
 
 #container {
     width: 800px;
     margin: auto;
-    background-color: #142850;
+    background-color: #ffa41b;
 }
 
 header {
     border: solid;
     padding: 40px;
     height: 80px;
+    color: #dae1e7;
+    background-color: #142850;
 }
 
 nav {
     border: solid;
     padding: 8px 40px;
-    background-color: #142850;
-    color: #00909e;
-    border-color: #27496d;
+    background-color: #005082;
+    color: #ffa41b;
 }
 
 #contents {
@@ -30,9 +31,8 @@ nav {
 
 footer {
     border: solid;
-    border-color: #dae1e7;
     padding: 40px;
     height: 40px;
     background-color: #142850;
-    color: #00909e;
+    color: #dae1e7;
 }
